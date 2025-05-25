@@ -2,3 +2,4 @@ artifacts/*
 cython_debug/
 .vscode/*
 logs/*
+wine_env/*
