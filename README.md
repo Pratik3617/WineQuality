@@ -109,7 +109,7 @@ export MLFLOW_TRACKING_PASSWORD=04553a50d21f8b3844ce19ec04ab041d4aa1ed22
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 132974882610.dkr.ecr.us-east-1.amazonaws.com/wine_quality_proj
+    - Save the URI: ECR URI
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
